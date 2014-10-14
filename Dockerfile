@@ -1,6 +1,7 @@
 #
 # Dockerfile 
-FROM dockerfile/java:oracle-java7
+#FROM dockerfile/java:oracle-java7
+FROM jboss/wildfly
 
 MAINTAINER Juan Carlos Garcia Pelaez
 
