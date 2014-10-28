@@ -11,7 +11,7 @@ MAINTAINER Juan Carlos Garcia Pelaez <juancarlosgpelaez@gmail.com>
 
 ADD jboss-as-config/standalone.xml /opt/jboss-as/standalone/configuration/
 
-ENV DROOLS_WB_VERSION 6.0.1.Final
+ENV DROOLS_WB_VERSION 6.1.0.Final
 
 # add user to jboss \
 # see https://docs.jboss.org/author/display/AS71/add-user+utility \
